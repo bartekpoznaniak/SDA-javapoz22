@@ -4,12 +4,12 @@ public class FeetToMetreConverter extends Converter {
 
     @Override
     public String getPrimaryUnit() {
-        return "foot";
+        return "ft";
     }
 
     @Override
     public String getSecondaryUnit() {
-        return "meter";
+        return "m";
     }
 
     @Override
